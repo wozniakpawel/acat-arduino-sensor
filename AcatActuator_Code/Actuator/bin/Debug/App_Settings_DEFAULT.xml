@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<App_Settings>
+  <ArduinoSensorSerialPortDescription>Arduino</ArduinoSensorSerialPortDescription>
+  <TriggeringModeThresholding>true</TriggeringModeThresholding>
+  <TriggeringModePeakDetectionAlgo>false</TriggeringModePeakDetectionAlgo>
+  <ThresholdingGestureStartThreshold>8.0</ThresholdingGestureStartThreshold>
+  <PeakDetectionAlgoGestureStartThreshold>1.00</PeakDetectionAlgoGestureStartThreshold>
+  <PeakDetectionAlgoGestureEndThreshold>-0.50</PeakDetectionAlgoGestureEndThreshold>
+  <ActuateACAT>true</ActuateACAT>
+  <RecommendedSensorPositionMin>9.00</RecommendedSensorPositionMin>
+  <RecommendedSensorPositionMax>11.00</RecommendedSensorPositionMax>
+  <SensorPostionDetectionWindowNumSamples>250</SensorPostionDetectionWindowNumSamples>
+  <SensorPostionDetectionWindowMaxRestStdDev>0.1</SensorPostionDetectionWindowMaxRestStdDev>
+  <FeedbackWindowPosition>BottomRight</FeedbackWindowPosition>
+</App_Settings>

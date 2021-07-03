@@ -1,0 +1,10 @@
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\obj\Debug\ACAT_Arduino_Windows_App.Form1.resources
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\obj\Debug\AcatActuator.csproj.GenerateResource.cache
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\obj\Debug\AcatActuator.csproj.CoreCompileInputs.cache
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\obj\Debug\AcatActuator.csprojAssemblyReference.cache
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\obj\Debug\ACAT_Arduino_Windows_App.FormFeedback.resources
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\bin\Debug\AcatActuator.exe
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\bin\Debug\AcatActuator.pdb
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\obj\Debug\AcatActuator.Properties.Resources.resources
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\obj\Debug\AcatActuator.exe
+C:\Users\mcpinar\Desktop\ACAT_Arduino_WIndows_App\Actuator\obj\Debug\AcatActuator.pdb
